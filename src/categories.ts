@@ -1,0 +1,1 @@
+export default ['Groceries', 'Entertainment', 'Utilities'] as const
